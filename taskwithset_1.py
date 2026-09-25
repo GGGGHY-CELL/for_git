@@ -1,0 +1,6 @@
+s = input("Your set:")
+s1 = set(s.split())
+print(s1)
+s1 = len(s1)
+print(s1)
+print("python" in s)
